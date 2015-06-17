@@ -1,0 +1,83 @@
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\le\HapticGame.exe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\be\HapticGame.exe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\le\HapticGame.pdb
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\be\HapticGame.pdb
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\HapticGame.exe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\HapticGame.pdb
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\le\HapticGame.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\le\HapticGame.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\be\HapticGame.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\be\HapticGame.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\obj\Debug\be\HapticGame.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\obj\Debug\be\HapticGame.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\obj\Debug\le\HapticGame.pe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\obj\Debug\le\HapticGame.pdbx
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\obj\Debug\HapticGame.exe
+C:\Users\Joe\AppData\Local\Temporary Projects\HapticGame\obj\Debug\HapticGame.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\le\HapticGame.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\be\HapticGame.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\le\HapticGame.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\be\HapticGame.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\HapticGame.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\HapticGame.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\le\HapticGame.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\le\HapticGame.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\be\HapticGame.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\be\HapticGame.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\HapticGame.csprojResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\be\HapticGame.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\be\HapticGame.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\le\HapticGame.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\le\HapticGame.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\HapticGame.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\obj\Debug\HapticGame.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Hardware.Core.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Hardware.Netduino.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Hardware.Speaker.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Core.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Hardware.Core.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Hardware.Netduino.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Hardware.Speaker.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Core.pe
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Hardware.Core.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Hardware.Netduino.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Hardware.Speaker.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\LE\Toolbox.NETMF.Core.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Hardware.Core.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Hardware.Netduino.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Hardware.Speaker.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\BE\Toolbox.NETMF.Core.pdbx
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Hardware.Core.dll
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Hardware.Netduino.dll
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Hardware.Speaker.dll
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Core.dll
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Hardware.Core.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Hardware.Netduino.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Hardware.Speaker.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\HapticGame\HapticGame\bin\Debug\Toolbox.NETMF.Core.pdb
